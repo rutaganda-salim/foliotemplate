@@ -6,9 +6,9 @@ import LenisScroll from "@/components/LenisScroll";
 import Scroll from "@/components/Scroll";
 
 export const metadata: Metadata = {
-  title: "Jasmine Maduafokwa | Portfolio 2024",
+  title: "John Mitchell - Portfolio template",
   description:
-    "This portfolio highlights Jasmine's UI/web design skills as well as her web development knowledge, showing users that she can deliver frontend websites from start to finish.",
+    "This portfolio highlights John Mitchell's UI/web design skills as well as her web development knowledge, showing users that she can deliver frontend websites from start to finish.",
 };
 
 export default function RootLayout({

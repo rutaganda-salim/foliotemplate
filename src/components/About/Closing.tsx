@@ -44,7 +44,7 @@ function Closing() {
         <div className="flex-1 hidden md:block"></div>
         <div className="flex-[2]">
           <iframe
-            title="Jasmine's Playlist"
+            title="John Mitchell's Playlist"
             style={{ borderRadius: "12px" }}
             src="https://open.spotify.com/embed/playlist/34nezoDEAzvnCSREPqaurN?utm_source=generator"
             width="100%"

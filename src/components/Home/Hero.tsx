@@ -122,7 +122,7 @@ function Hero() {
             animate="animate"
             className=""
           >
-            <Header1 text="Jasmine" />
+            <Header1 text="John" />
           </motion.div>
         </div>
         <div className="overflow-hidden">
@@ -132,7 +132,7 @@ function Hero() {
             animate="animate"
             className=""
           >
-            <Header1 text="Maduafokwa" />
+            <Header1 text="Doe" />
           </motion.div>
         </div>
       </div>

@@ -2,7 +2,7 @@ import React from "react";
 import Header3 from "../Header3";
 
 function AboutMe() {
-  const line1 = "I'm Jasmine Maduafokwa, a"
+  const line1 = "I'm John Mitchell"
   const line2 = "full stack developer with a focus"
   const line3 = "on frontend technologies"
   const line4 = "combined with a passion for"

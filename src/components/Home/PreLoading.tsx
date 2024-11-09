@@ -5,7 +5,7 @@ import { spectralBridgeRegular } from "@/fonts/font";
 import { motion, AnimatePresence, easeInOut } from "framer-motion";
 
 function PreLoading({ count }: { readonly count: number }) {
-  const name = "Jasmine";
+  const name = "John";
   const EASING = [0.83, 0, 0.17, 1];
 
   const bgVariant = {

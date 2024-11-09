@@ -12,7 +12,7 @@ function Footer() {
   const links = [
     {
       title: "email",
-      href: "mailto:jmaduafokwa@hotmail.com",
+      href: "mailto:rutagandasalim@gmail.com",
     },
     {
       title: "github",

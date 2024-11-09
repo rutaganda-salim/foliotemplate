@@ -132,7 +132,7 @@ function Hero() {
             animate="animate"
             className=""
           >
-            <Header1 text="John Mitchell" />
+            <Header1 text="Mitchell" />
           </motion.div>
         </div>
       </div>

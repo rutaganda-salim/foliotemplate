@@ -25,7 +25,11 @@ This portfolio template is built using the following technologies:
 
 You can see a live demo of the portfolio template in action here:
 
-### Screenshot of the Portfolio:
+### Screenshot of the Portfolio(Light Mode):
+![Portfolio Screenshot](public/preview/preview2.png)
+
+
+### Screenshot of the Portfolio(Dark Mode):
 ![Portfolio Screenshot](public/preview/preview1.png)
 
 [Live Demo](https://foliotemplate.vercel.app)

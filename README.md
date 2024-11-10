@@ -1,36 +1,75 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Portfolio Template
 
-## Getting Started
+Welcome to my open-source portfolio template! Feel free to make it your own by customizing it to suit your needs. This template is designed to be easy to modify and adapt, so don't hesitate to personalize it. If you find it useful, consider contributing or giving credit where applicable.
 
-First, run the development server:
+## 🚀 Features
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- Responsive design for all devices
+- Smooth animations and transitions
+- Clean and modern user interface
+- Easy-to-edit structure
+- Integrated with [mention any specific frameworks or tools]
+- [Add more features if needed]
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🛠️ Tech Stack
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+This portfolio template is built using the following technologies:
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+- **Next.js**: Framework for server-side rendering and static site generation
+- **GSAP**: Animation library for complex and performant animations
+- **Framer Motion**: Animation library for React, used for declarative animations
+- **Tailwind CSS**: Utility-first CSS framework for rapid UI development
+- **JavaScript**: Dynamic content and interactivity
 
-## Learn More
+## 🛠️ Getting Started
 
-To learn more about Next.js, take a look at the following resources:
+To get started with this portfolio template, follow the steps below:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+1. **Clone the Repository**  
+   Clone this repository to your local machine:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+   ```bash
+   git clone https://github.com/rutaganda-salim/foliotemplate.git
+   ```
+2. **Install Dependencies**
+   Navigate to the project directory and install the required dependencies:
+   ```bash
+   cd foliotemplate
+   npm install
+   ```
+3. **Customize the Template**
+   Customize the template to fit your needs. You can modify the content, colors, and styles to match your preferences.
+4. **Run the Development Server**
+   Start the development server to see your changes in real-time:
+   ```bash
+   npm run dev
+   ```
+   Open your browser and visit [http://localhost:3000](http://localhost:3000) to see your portfolio in action.
+5. **Build and Deploy**
+   Once you're satisfied with your changes, build the project and deploy it to your preferred hosting platform.
 
-## Deploy on Vercel
+## 💡 Inspiration
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+I found inspiration for this portfolio design on [Awwwards](https://www.jasminemaduafokwa.com). The creative layouts and modern UI/UX practices helped shape the design of this project. You can check out the specific project that inspired me [here](https://www.jasminemaduafokwa.com).
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## 🤝 Contributions
+
+This project is open source! If you'd like to contribute, you can:
+
+- Fork the repository
+- Make your changes
+- Submit a pull request
+
+Feel free to report any bugs, suggest new features, or contribute directly.
+
+## 📝 Credits
+
+All credits go to the original creators of this portfolio Jasmine Maduafokwa.
+
+## 🏷️ License
+
+I don't really like this kind stuff of license , so you're free to modify and distribute it as long as you give proper credit.
+
+---
+
+Enjoy building your own personal portfolio!

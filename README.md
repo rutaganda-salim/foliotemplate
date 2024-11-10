@@ -21,6 +21,17 @@ This portfolio template is built using the following technologies:
 - **Tailwind CSS**: Utility-first CSS framework for rapid UI development
 - **JavaScript**: Dynamic content and interactivity
 
+## 💻 Preview
+
+You can see a live demo of the portfolio template in action here:
+
+### Screenshot of the Portfolio:
+![Portfolio Screenshot](/preview/preview.png)
+
+[Live Demo](https://foliotemplate.vercel.app)
+
+This will give you an idea of how the final portfolio looks and behaves, including the animations and responsiveness.
+
 ## 🛠️ Getting Started
 
 To get started with this portfolio template, follow the steps below:

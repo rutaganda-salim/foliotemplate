@@ -159,7 +159,7 @@ function Footer() {
               Design & Development
             </p>
             <p className="text-[14px] text-lightText dark:text-darkText">
-              Jasmine Maduafokwa
+              John Mitchell
             </p>
           </div>
           <div>
@@ -167,7 +167,7 @@ function Footer() {
               Based In
             </p>
             <p className="text-[14px] text-lightText dark:text-darkText">
-              United States & Nigeria
+              Rwanda and RCA
             </p>
           </div>
         </motion.div>
